@@ -1,0 +1,12 @@
+gunicorn
+numpy
+pybind11
+SciPy
+jupyter-book
+matplotlib
+pip
+
+pandas
+numpy
+
+seaborn
